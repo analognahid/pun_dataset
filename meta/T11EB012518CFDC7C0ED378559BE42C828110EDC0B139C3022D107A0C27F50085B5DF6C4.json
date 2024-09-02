@@ -1,0 +1,16 @@
+{
+    "prototype": {
+        "src_path": "src/AdrienViacesi_____Calculatorr/main.c",
+        "bin_path": "bin",
+        "compiler": " gcc ",
+        "flags": " -gdwarf-4 -O2  ",
+        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/prototype/T11EB012518CFDC7C0ED378559BE42C828110EDC0B139C3022D107A0C27F50085B5DF6C4 src/AdrienViacesi_____Calculatorr/main.c"
+    },
+    "test2": {
+        "src_path": "src/AdrienViacesi_____Calculatorr/main.c",
+        "bin_path": "bin",
+        "compiler": " gcc ",
+        "flags": " -gdwarf-4 -O2  ",
+        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/test2/T11EB012518CFDC7C0ED378559BE42C828110EDC0B139C3022D107A0C27F50085B5DF6C4 src/AdrienViacesi_____Calculatorr/main.c"
+    }
+}

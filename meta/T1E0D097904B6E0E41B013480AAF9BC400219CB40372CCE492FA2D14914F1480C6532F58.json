@@ -1,0 +1,16 @@
+{
+    "prototype": {
+        "src_path": "src/ugurcankaya_____Structural-Programming/renew.c",
+        "bin_path": "bin",
+        "compiler": " gcc ",
+        "flags": " -gdwarf-4 -O2  ",
+        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/prototype/T1E0D097904B6E0E41B013480AAF9BC400219CB40372CCE492FA2D14914F1480C6532F58 src/ugurcankaya_____Structural-Programming/renew.c"
+    },
+    "test2": {
+        "src_path": "src/ugurcankaya_____Structural-Programming/renew.c",
+        "bin_path": "bin",
+        "compiler": " gcc ",
+        "flags": " -gdwarf-4 -O2  ",
+        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/test2/T1E0D097904B6E0E41B013480AAF9BC400219CB40372CCE492FA2D14914F1480C6532F58 src/ugurcankaya_____Structural-Programming/renew.c"
+    }
+}

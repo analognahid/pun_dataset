@@ -1,0 +1,16 @@
+{
+    "prototype": {
+        "src_path": "src/insanitybit_____ProjEuler/Project1.c",
+        "bin_path": "bin",
+        "compiler": " gcc ",
+        "flags": " -gdwarf-4 -O2  ",
+        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/prototype/T16101D0A62369B3F1962B8232835D80715374809F97E8A015FD6FC012A7C2A3193B13F7 src/insanitybit_____ProjEuler/Project1.c"
+    },
+    "test2": {
+        "src_path": "src/insanitybit_____ProjEuler/Project1.c",
+        "bin_path": "bin",
+        "compiler": " gcc ",
+        "flags": " -gdwarf-4 -O2  ",
+        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/test2/T16101D0A62369B3F1962B8232835D80715374809F97E8A015FD6FC012A7C2A3193B13F7 src/insanitybit_____ProjEuler/Project1.c"
+    }
+}

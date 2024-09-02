@@ -1,0 +1,16 @@
+{
+    "prototype": {
+        "src_path": "src/ugurcankaya_____Structural-Programming/fibonacci.c",
+        "bin_path": "bin",
+        "compiler": " gcc ",
+        "flags": " -gdwarf-4 -O2  ",
+        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/prototype/T1CDE02B75364759E52957005DA70E824412089507729CF815BC3E52607F22C59BAA16FE src/ugurcankaya_____Structural-Programming/fibonacci.c"
+    },
+    "test2": {
+        "src_path": "src/ugurcankaya_____Structural-Programming/fibonacci.c",
+        "bin_path": "bin",
+        "compiler": " gcc ",
+        "flags": " -gdwarf-4 -O2  ",
+        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/test2/T1CDE02B75364759E52957005DA70E824412089507729CF815BC3E52607F22C59BAA16FE src/ugurcankaya_____Structural-Programming/fibonacci.c"
+    }
+}

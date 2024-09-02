@@ -1,0 +1,16 @@
+{
+    "prototype": {
+        "src_path": "src/ugurcankaya_____Structural-Programming/array_ex0.c",
+        "bin_path": "bin",
+        "compiler": " gcc ",
+        "flags": " -gdwarf-4 -O2  ",
+        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/prototype/T14FF05C14896B7650805B55788716C045111DF02B31DCFDA2FD3E4671AF49DBC19BDB5C src/ugurcankaya_____Structural-Programming/array_ex0.c"
+    },
+    "test2": {
+        "src_path": "src/ugurcankaya_____Structural-Programming/array_ex0.c",
+        "bin_path": "bin",
+        "compiler": " gcc ",
+        "flags": " -gdwarf-4 -O2  ",
+        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/test2/T14FF05C14896B7650805B55788716C045111DF02B31DCFDA2FD3E4671AF49DBC19BDB5C src/ugurcankaya_____Structural-Programming/array_ex0.c"
+    }
+}

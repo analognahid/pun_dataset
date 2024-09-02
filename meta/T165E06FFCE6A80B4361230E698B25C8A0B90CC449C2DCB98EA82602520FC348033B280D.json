@@ -1,0 +1,16 @@
+{
+    "prototype": {
+        "src_path": "src/ugurcankaya_____Structural-Programming/2-Facto.c",
+        "bin_path": "bin",
+        "compiler": " gcc ",
+        "flags": " -gdwarf-4 -O2  ",
+        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/prototype/T165E06FFCE6A80B4361230E698B25C8A0B90CC449C2DCB98EA82602520FC348033B280D src/ugurcankaya_____Structural-Programming/2-Facto.c"
+    },
+    "test2": {
+        "src_path": "src/ugurcankaya_____Structural-Programming/2-Facto.c",
+        "bin_path": "bin",
+        "compiler": " gcc ",
+        "flags": " -gdwarf-4 -O2  ",
+        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/test2/T165E06FFCE6A80B4361230E698B25C8A0B90CC449C2DCB98EA82602520FC348033B280D src/ugurcankaya_____Structural-Programming/2-Facto.c"
+    }
+}
