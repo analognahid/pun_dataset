@@ -1,16 +1,9 @@
 {
-    "prototype": {
-        "src_path": "src/JelmerDeV_____BMI-Calc/BMI_Calc/main.c",
-        "bin_path": "bin",
+    "x86_O2_d4": {
+        "src_path": "/media/raisul/clones_100k/JelmerDeV_____BMI-Calc/BMI_Calc/main.c",
+        "bin_path": "/home/raisul/DATA",
         "compiler": " gcc ",
         "flags": " -gdwarf-4 -O2  ",
-        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/prototype/T19B017BF48C1B3D82E8671296BD06B82D722E9DC32248F254B3BE51110F19C487486FC6 src/JelmerDeV_____BMI-Calc/BMI_Calc/main.c"
-    },
-    "test2": {
-        "src_path": "src/JelmerDeV_____BMI-Calc/BMI_Calc/main.c",
-        "bin_path": "bin",
-        "compiler": " gcc ",
-        "flags": " -gdwarf-4 -O2  ",
-        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/test2/T19B017BF48C1B3D82E8671296BD06B82D722E9DC32248F254B3BE51110F19C487486FC6 src/JelmerDeV_____BMI-Calc/BMI_Calc/main.c"
+        "compile_command": " gcc  -gdwarf-4 -O2  -o /home/raisul/DATA/x86_O2_d4/T19B017BF48C1B3D82E8671296BD06B82D722E9DC32248F254B3BE51110F19C487486FC6 /media/raisul/clones_100k/JelmerDeV_____BMI-Calc/BMI_Calc/main.c"
     }
 }

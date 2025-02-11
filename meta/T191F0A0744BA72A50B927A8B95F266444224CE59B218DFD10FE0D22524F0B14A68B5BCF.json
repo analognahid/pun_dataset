@@ -1,16 +1,9 @@
 {
-    "prototype": {
-        "src_path": "src/ugurcankaya_____Structural-Programming/dias.c",
-        "bin_path": "bin",
+    "x86_O2_d4": {
+        "src_path": "/media/raisul/clones_100k/ugurcankaya_____Structural-Programming/dias.c",
+        "bin_path": "/home/raisul/DATA",
         "compiler": " gcc ",
         "flags": " -gdwarf-4 -O2  ",
-        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/prototype/T191F0A0744BA72A50B927A8B95F266444224CE59B218DFD10FE0D22524F0B14A68B5BCF src/ugurcankaya_____Structural-Programming/dias.c"
-    },
-    "test2": {
-        "src_path": "src/ugurcankaya_____Structural-Programming/dias.c",
-        "bin_path": "bin",
-        "compiler": " gcc ",
-        "flags": " -gdwarf-4 -O2  ",
-        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/test2/T191F0A0744BA72A50B927A8B95F266444224CE59B218DFD10FE0D22524F0B14A68B5BCF src/ugurcankaya_____Structural-Programming/dias.c"
+        "compile_command": " gcc  -gdwarf-4 -O2  -o /home/raisul/DATA/x86_O2_d4/T191F0A0744BA72A50B927A8B95F266444224CE59B218DFD10FE0D22524F0B14A68B5BCF /media/raisul/clones_100k/ugurcankaya_____Structural-Programming/dias.c"
     }
 }

@@ -1,16 +1,9 @@
 {
-    "prototype": {
-        "src_path": "src/insanitybit_____ProjEuler/Project2.c",
-        "bin_path": "bin",
+    "x86_O2_d4": {
+        "src_path": "/media/raisul/nahid_personal/clones_100k/insanitybit_____ProjEuler/Project2.c",
+        "bin_path": "/home/raisul/DATA",
         "compiler": " gcc ",
         "flags": " -gdwarf-4 -O2  ",
-        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/prototype/T16C31200F5A4A377628053834678F9832BB8F14D966FCD9127C3E621A2F02271D5782F7 src/insanitybit_____ProjEuler/Project2.c"
-    },
-    "test2": {
-        "src_path": "src/insanitybit_____ProjEuler/Project2.c",
-        "bin_path": "bin",
-        "compiler": " gcc ",
-        "flags": " -gdwarf-4 -O2  ",
-        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/test2/T16C31200F5A4A377628053834678F9832BB8F14D966FCD9127C3E621A2F02271D5782F7 src/insanitybit_____ProjEuler/Project2.c"
+        "compile_command": " gcc  -gdwarf-4 -O2  -o /home/raisul/DATA/x86_O2_d4/T16C31200F5A4A377628053834678F9832BB8F14D966FCD9127C3E621A2F02271D5782F7 /media/raisul/nahid_personal/clones_100k/insanitybit_____ProjEuler/Project2.c"
     }
 }

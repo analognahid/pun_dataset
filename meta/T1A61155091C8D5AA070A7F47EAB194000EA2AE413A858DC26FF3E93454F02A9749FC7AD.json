@@ -1,16 +1,9 @@
 {
-    "prototype": {
-        "src_path": "src/ugurcankaya_____Structural-Programming/matrix.c",
-        "bin_path": "bin",
+    "x86_O2_d4": {
+        "src_path": "/media/raisul/clones_100k/ugurcankaya_____Structural-Programming/matrix.c",
+        "bin_path": "/home/raisul/DATA",
         "compiler": " gcc ",
         "flags": " -gdwarf-4 -O2  ",
-        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/prototype/T1A61155091C8D5AA070A7F47EAB194000EA2AE413A858DC26FF3E93454F02A9749FC7AD src/ugurcankaya_____Structural-Programming/matrix.c"
-    },
-    "test2": {
-        "src_path": "src/ugurcankaya_____Structural-Programming/matrix.c",
-        "bin_path": "bin",
-        "compiler": " gcc ",
-        "flags": " -gdwarf-4 -O2  ",
-        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/test2/T1A61155091C8D5AA070A7F47EAB194000EA2AE413A858DC26FF3E93454F02A9749FC7AD src/ugurcankaya_____Structural-Programming/matrix.c"
+        "compile_command": " gcc  -gdwarf-4 -O2  -o /home/raisul/DATA/x86_O2_d4/T1A61155091C8D5AA070A7F47EAB194000EA2AE413A858DC26FF3E93454F02A9749FC7AD /media/raisul/clones_100k/ugurcankaya_____Structural-Programming/matrix.c"
     }
 }

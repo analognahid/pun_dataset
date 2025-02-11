@@ -1,16 +1,9 @@
 {
-    "prototype": {
-        "src_path": "src/AlexanderEPetrov_____C-Programming/trick_or_treat.c",
-        "bin_path": "bin",
+    "x86_O2_d4": {
+        "src_path": "/media/raisul/nahid_personal/clones_100k/AlexanderEPetrov_____C-Programming/trick_or_treat.c",
+        "bin_path": "/home/raisul/DATA",
         "compiler": " gcc ",
         "flags": " -gdwarf-4 -O2  ",
-        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/prototype/T1A511BA441706AC00B9FB1650A7C02D02DE22581F25F865A2F4BCC8A68FFE64D7770EA6 src/AlexanderEPetrov_____C-Programming/trick_or_treat.c"
-    },
-    "test2": {
-        "src_path": "src/AlexanderEPetrov_____C-Programming/trick_or_treat.c",
-        "bin_path": "bin",
-        "compiler": " gcc ",
-        "flags": " -gdwarf-4 -O2  ",
-        "compile_command": " gcc  -gdwarf-4 -O2  -o bin/test2/T1A511BA441706AC00B9FB1650A7C02D02DE22581F25F865A2F4BCC8A68FFE64D7770EA6 src/AlexanderEPetrov_____C-Programming/trick_or_treat.c"
+        "compile_command": " gcc  -gdwarf-4 -O2  -o /home/raisul/DATA/x86_O2_d4/T1A511BA441706AC00B9FB1650A7C02D02DE22581F25F865A2F4BCC8A68FFE64D7770EA6 /media/raisul/nahid_personal/clones_100k/AlexanderEPetrov_____C-Programming/trick_or_treat.c"
     }
 }
